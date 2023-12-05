@@ -1,6 +1,4 @@
-# # AltsisiP1
 ## Programmer: Matthew Altsisi
-## Email: maltsisi@cnm.edu
 ## Purpose: to calculate volume and surface area of pyramid
 ## Python version: 3.10.2
 
